@@ -13,14 +13,14 @@ export default defineConfig(({ command, mode, ssrBuild }) => {
                 return {
                     server: {
                         host: true,
-                        port: 666,
+                        port: 667,
                     },
                     build: {
                         outDir: "../docs",
                         emptyOutDir: true,
                     },
                     preview: {
-                        port: 666
+                        port: 667
                     },
                     root: "./pages"
                 }

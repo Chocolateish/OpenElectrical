@@ -10,7 +10,7 @@
             "name": "Debug",
             "preLaunchTask": "serve",
             "cleanUp": "wholeBrowser",
-            "url": "http://localhost:666",
+            "url": "http://localhost:667",
             "webRoot": "${workspaceFolder}/pages"
         }
     ]
